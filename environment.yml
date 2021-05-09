@@ -1,0 +1,10 @@
+name: rubiks
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - matplotlib=3.2.2
+  - numpy=1.19.1
+  - pillow=8.0.0
+  - python-graphviz=0.14.2
